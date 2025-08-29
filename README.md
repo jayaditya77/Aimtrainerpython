@@ -1,3 +1,3 @@
-Run this file ion vs code 
+Run this file on vs code 
 compile and run 
 play 
